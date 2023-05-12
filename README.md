@@ -65,7 +65,8 @@ The software is published under the [`MIT` License](/LICENSE).
 
 - [Trending #1 on Hacker News](http://web.archive.org/web/20230511060851/https://news.ycombinator.com/)
 - Twitter
-  - [Guillermo Rauch, CEO @vercel](https://twitter.com/rauchg/status/1656493176088150017?s=20)
+  - [Guillermo Rauch, CEO @vercel](https://twitter.com/rauchg/status/1656493176088150017)
+  - [Fastest Growing GitHub Repo on 12th May 2023](https://twitter.com/GithubGrowing/status/1657014847274401792)
   - [Flavio](https://twitter.com/flaviocopes/status/1656550590581751808)
 - [Trending #3 for Svelte on GitHub](https://web.archive.org/web/20220903211909/https://github.com/trending/svelte)
 - [Made with Svelte](https://madewithsvelte.com/win11svelte)
